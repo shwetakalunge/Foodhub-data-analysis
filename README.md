@@ -1,29 +1,26 @@
-# FoodHub Data Analysis Project
+# FoodHub Data Analysis
 
-## Project Overview
-This project analyzes customer orders from FoodHub to identify patterns in customer behavior and restaurant performance.
-
-## Objectives
-- Analyze order frequency
-- Identify top restaurants
-- Study customer rating trends
+## Objective
+Analyze FoodHub order data to identify customer behavior,
+popular cuisines, and delivery performance.
 
 ## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+Python
+Pandas
+Matplotlib
+Seaborn
+
+## Key Questions
+• What are the most popular cuisines?
+• Which restaurants receive the most orders?
+• How does delivery time affect ratings?
 
 ## Key Insights
-- Most orders occur on weekends
-- Restaurants with ratings >4.5 get 30% more orders
+• A small number of restaurants receive a large portion of orders.
+• Certain cuisines dominate customer demand.
+• Delivery time may influence customer ratings.
 
-## Project Files
-- FoodHub_EDA.ipynb – Exploratory data analysis
-- dataset.csv – dataset used for analysis
-
-## How to Run
-1. Install required libraries
-2. Open notebook
-3. Run cells sequentially
+## Business Recommendations
+• Partner with more restaurants offering high-demand cuisines
+• Improve delivery efficiency
+• Promote top-rated restaurants
